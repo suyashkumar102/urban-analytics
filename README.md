@@ -6,8 +6,6 @@
 
 PULSE analyzes 100+ Indian cities across 5 key development pillars to compute an Urban Growth Intelligence (UGI) score. This platform provides actionable insights for urban planning, investment decisions, and policy formulation through advanced data science and interactive visualizations.
 
-## 🚀 Live Demo
-[View Interactive Dashboard](https://your-streamlit-app-url.com)
 
 ## 📊 Key Features
 
@@ -67,16 +65,4 @@ pip install -r requirements.txt
 
 # Run Streamlit app
 streamlit run src/app.py
-```
 
-## 📈 Screenshots
-
-*Add 4 key screenshots here*
-
-## 📧 Contact
-
-**Your Name** | Data Scientist  
-📧 your.email@domain.com | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | 🐙 [GitHub](https://github.com/yourusername)
-
----
-*Built with ❤️ for India's urban future*
